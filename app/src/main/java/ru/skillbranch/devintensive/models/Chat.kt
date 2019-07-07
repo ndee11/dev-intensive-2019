@@ -6,3 +6,5 @@ class Chat(
     , val messages : MutableList<BaseMessage> = mutableListOf()
 ) {
 }
+
+//some comment
